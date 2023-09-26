@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @SAMUELLUCAS64
 - 👀 I’m interested  JAVASCRIPT E REACT
-- 🌱 I’m currently learning 
-- 💞️ Estou Convertendo um ERP Delphi(pascal) para Javascript - React - Postgres
 - 📫 How to reach me  SAMUELLUCAS64
 
 <!---
